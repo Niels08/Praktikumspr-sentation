@@ -1,0 +1,21 @@
+.navbar {
+    background-color: green;
+}
+.nav-link {
+    color:white;
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+    padding-top: 30px;
+}
+h2{
+    font-size: 65px;
+    padding-top:20px ;
+}
+p {
+    color:black;
+}
+img{
+    padding-top: 100px;
+}
