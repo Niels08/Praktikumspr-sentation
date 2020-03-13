@@ -1,21 +1,92 @@
 .navbar {
     background-color: green;
 }
+
 .nav-link {
-    color:white;
+    color: white;
     font-size: 25px;
 }
-h1{
+
+h1 {
     font-size: 30px;
+    colr:black;
+
+}
+
+h2 {
+    font-size: 65px;
+    padding-top: 20px;
+
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+.überschrift {
+    padding-top: 10px;
+    margin-bottom: -30px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
     padding-top: 30px;
 }
-h2{
-    font-size: 65px;
-    padding-top:20px ;
-}
-p {
-    color:black;
-}
-img{
+
+img {
     padding-top: 100px;
 }
+
+.nav-link1 {
+    color: black;
+    font-size: 25px;
+}
+
+.nav-link2 {
+    font-size: 25px;
+    color:black;
+
+}
+
+li {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+main.inner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.content {
+
+    width: 900px;
+    margin: auto;
+
+
+}
+.button{
+
+}
+
+.bild {
+    width: 50%;
+    margin: -70px auto 0 auto;
+
+}
+
+.qwer {
+    margin-top: -50px;
+}
+.cover-heading{
+    color:black;
+}
+
+
+
+
